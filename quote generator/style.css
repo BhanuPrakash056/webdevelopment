@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+.container
+{
+    margin: 100px 100px;
+    background-color: antiquewhite;
+    border-radius: 2px;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    flex: space;
+    align-items: center;
+    justify-content: center;
+}
